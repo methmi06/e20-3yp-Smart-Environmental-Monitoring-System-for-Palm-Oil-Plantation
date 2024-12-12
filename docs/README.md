@@ -3,20 +3,21 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and project title
-repository-name: eYY-3yp-project-template
-title: Project Template
+repository-name: e20-3yp-Smart-Environmental-Monitoring-System-for-Palm-Oil-Plantation
+title: Smart Environmental Monitoring System for Palm Oil Plantation
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# Smart Environmental Monitoring System for Palm Oil Plantation
 
 ---
 
 ## Team
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
--  eNumber, Name, [email](mailto:name@email.com)
+- E/20/054, M.L. De Croos Rubin,     e20054@eng.pdn.ac.lk <br>
+- E/20/197,  A.H.D. Kawya,           e20197@eng.pdn.ac.lk <br>
+- E/20/211,  K.W.I.T. Kumarasinghe,  e20211@eng.pdn.ac.lk <br>
+- E/20/285, B.B.M.R. Perera,         e20285@eng.pdn.ac.lk <br>
 
 <!-- Image (photo/drawing of the final hardware) should be here -->
 
