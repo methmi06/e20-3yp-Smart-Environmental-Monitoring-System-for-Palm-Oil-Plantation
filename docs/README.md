@@ -36,7 +36,7 @@ title: Smart Environmental Monitoring System for Palm Oil Plantation
 
 ## Introduction
 
-Description of the real world problem and solution, impact
+The agriculture sector is rapidly adopting advanced technologies to improve productivity and sustainability. Oil palm plantations, such as those managed by Watawala, face significant challenges, including environmental changes, labor inefficiencies, and resource mismanagement. To address these challenges, this project aims to develop a Smart Agriculture Monitoring System that leverages IoT sensors, GPS, and image processing technologies. This system will monitor critical parameters and provide actionable insights to optimize plantation management.
 
 
 ## Solution Architecture
@@ -55,9 +55,16 @@ Testing done on hardware and software, detailed + summarized results
 
 All items and costs
 
-| Item          | Quantity  | Unit Cost  | Total  |
-| ------------- |:---------:|:----------:|-------:|
-| Sample item   | 5         | 10 LKR     | 50 LKR |
+| Item            ccccccccc        | Quantity  | Unit Cost     | Total     |
+| --------------------------------:|:---------:|:-------------:|----------:|
+| ESP32 microcontroller            | 1         | 1790 LKR      | 1790 LKR  |
+| BH1750 light intensity sensor    | 1         | 840 LKR       | 840 LKR   |
+| NPK sensor                       | 1         | 25900 LKR     | 25900 LKR |
+| Temperature/humidity DHT22       | 1         | 1480 LKR      | 1480 LKR  |
+| Circuits wires                   |           | 350 LKR       | 700 LKR   |
+| Hall sensor(for tipping bucket)  | 1         | 230 LKR       | 230 LKR   |
+| Soil Moisture Sensor SENO193     | 1         | 1750 LKR      | 1750 LKR  |
+|                                  |           | 230 LKR       | 32690 LKR |
 
 ## Conclusion
 
