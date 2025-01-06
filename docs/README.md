@@ -55,7 +55,7 @@ Testing done on hardware and software, detailed + summarized results
 
 All items and costs
 
-| Item            ccccccccc        | Quantity  | Unit Cost     | Total     |
+| Item                             | Quantity  | Unit Cost     | Total     |
 | --------------------------------:|:---------:|:-------------:|----------:|
 | ESP32 microcontroller            | 1         | 1790 LKR      | 1790 LKR  |
 | BH1750 light intensity sensor    | 1         | 840 LKR       | 840 LKR   |
