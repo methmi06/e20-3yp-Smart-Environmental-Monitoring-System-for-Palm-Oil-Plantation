@@ -42,6 +42,7 @@ The agriculture sector is rapidly adopting advanced technologies to improve prod
 ## Solution Architecture
 
 High level diagram + description
+![WhatsApp Image 2025-01-29 at 20 48 07_9fe9518f](https://github.com/user-attachments/assets/c5ba75bc-3438-4bb6-81db-776753146d3c)
 
 ## Hardware and Software Designs
 
