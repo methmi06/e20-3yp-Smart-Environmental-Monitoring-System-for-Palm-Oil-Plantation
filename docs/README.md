@@ -51,9 +51,6 @@ Image Processing Model for Measuring Tree Count and Tree Health
 ![WhatsApp Image 2025-01-29 at 21 38 43_7cfe403a](https://github.com/user-attachments/assets/731296d6-5059-479c-a36a-63655ec75ab9)
 ![WhatsApp Image 2025-01-29 at 21 39 20_452756d8](https://github.com/user-attachments/assets/f3dae423-91bf-4920-a6a0-86b34fa52f32)
 
-![WhatsApp Image 2025-01-29 at 21 38 44_0986518a](https://github.com/user-attachments/assets/d1f341e8-18fb-4ec6-892f-538d32a2c23c)
-![WhatsApp Image 2025-01-29 at 21 39 02_4575e09f](https://github.com/user-attachments/assets/3d98dd09-140e-450f-9a54-b4b2b7714fec)
-
 ## Testing
 
 Testing done on hardware and software, detailed + summarized results
