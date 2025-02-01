@@ -59,16 +59,20 @@ Testing done on hardware and software, detailed + summarized results
 
 All items and costs
 
-| Item                             | Quantity  | Unit Cost     | Total     |
-| --------------------------------:|:---------:|:-------------:|----------:|
-| ESP32 microcontroller            | 1         | 1790 LKR      | 1790 LKR  |
-| BH1750 light intensity sensor    | 1         | 840 LKR       | 840 LKR   |
-| NPK sensor                       | 1         | 25900 LKR     | 25900 LKR |
-| Temperature/humidity DHT22       | 1         | 1480 LKR      | 1480 LKR  |
-| Circuits wires                   |           | 350 LKR       | 700 LKR   |
-| Hall sensor(for tipping bucket)  | 1         | 230 LKR       | 230 LKR   |
-| Soil Moisture Sensor SENO193     | 1         | 1750 LKR      | 1750 LKR  |
-|                                  |           | 230 LKR       | 32690 LKR |
+| Item                                       | Quantity  | Unit Cost     | Total     |
+| ------------------------------------------:|:---------:|:-------------:|----------:|
+| ESP32 microcontroller                      | 1         | 1790 LKR      | 1790 LKR  |
+| BH1750 light intensity sensor              | 1         | 840 LKR       | 840 LKR   |
+| NPK sensor                                 | 1         | 25900 LKR     | 25900 LKR |
+| Temperature/humidity DHT22                 | 1         | 1480 LKR      | 1480 LKR  |
+| Circuits wires                             |           | 350 LKR       | 700 LKR   |
+| Hall sensor(for tipping bucket)            | 1         | 230 LKR       | 230 LKR   |
+| Soil Moisture Sensor SENO193               | 1         | 1750 LKR      | 1750 LKR  |
+| Dragino LG01-P LoRa IoT Gateway 433MHZ     | 1         | 1750 LKR      | 1750 LKR  |
+| LoRa Ra-02 SX1278 Module 433MHz            | 2         | 1500 LKR      | 3000 LKR  |
+| RF 433MHz Antenna 2-3 dBi (MD0164          | 2         | 250 LKR       | 500 LKR   |
+|                                            |           |               | 49980 LKR |
+
 
 ## Conclusion
 
