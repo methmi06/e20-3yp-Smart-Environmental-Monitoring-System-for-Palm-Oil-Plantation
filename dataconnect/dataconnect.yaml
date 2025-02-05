@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "e20-3yp-smart-environmental-monitoring-system-for-palm-oil-plan"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "e20-3yp-smart-environmental-monitoring-system-for-palm-oil-plan-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
