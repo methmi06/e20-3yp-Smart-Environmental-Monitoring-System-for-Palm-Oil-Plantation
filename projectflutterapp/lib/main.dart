@@ -5,17 +5,18 @@ void main() async {
   // Ensure Firebase is initialized before the app starts
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();  // Initialize Firebase
-  runApp(const MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  const MyApp({Key? key}) : super(key: key);
+  const MyApp({super.key});
+
 
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter Project Demo',
       theme: ThemeData(
         // This is the theme of your application.
         //
