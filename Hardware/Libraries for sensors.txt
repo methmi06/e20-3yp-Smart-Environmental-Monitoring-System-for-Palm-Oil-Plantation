@@ -2,3 +2,10 @@ BH1750- wollewald/BH1750_WE @ ^1.1.10
 
 DHT22 - adafruit/DHT sensor library@^1.4.3
    	adafruit/Adafruit Unified Sensor@^1.1.4
+
+NEO-6M - mikalhart/TinyGPSPlus @ ^1.0.3
+
+3144e - no library
+
+
+
