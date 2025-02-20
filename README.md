@@ -1,5 +1,16 @@
-___
-# Smart Environmental Monitoring System for Palm Oil Plantation in Watawala
-___
+# smart_agri_app_new
 
-The Smart Environmental Monitoring system will not only simplify and streamline plantation management operations but also enhance efficiency and promote sustainability. By offering real-time data collection and actionable insights, our solution will empower decision-making and optimize resource usage.
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
